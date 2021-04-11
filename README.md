@@ -31,10 +31,6 @@ We load the CIFAR-10 dataset using the Keras library. The Keras library has a su
 ### Procedure
 Install the dependencies and devDependencies and start running .py file.
 
-```sh
-$ cd Lenet5-from-scratch
-$ python lenet5.py
-```
 
 ### Todos
 
